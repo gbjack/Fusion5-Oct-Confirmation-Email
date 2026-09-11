@@ -8,6 +8,8 @@
       <mj-all padding="0px" />
     </mj-attributes>
 
+    <mj-font name="Calibre" href="https://fusion5-oct-confirmation-email.vercel.app/images" />
+
     <mj-raw>
       <!--[if mso]>
         <style type="text/css">
@@ -84,7 +86,7 @@
 
         <mj-section>
             <mj-column>
-                <mj-text color="#ff5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="medium" line-height="45px">
+                <mj-text color="#FF5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
                     Visibility to Act
                 </mj-text>
                 <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="normal" line-height="31px">
@@ -96,7 +98,7 @@
 
         <mj-section padding-top="60px">
             <mj-column>
-                <mj-text color="#ff5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
+                <mj-text color="#FF5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
                     Confidence to Move
                 </mj-text>
                 <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="normal" line-height="31px">
@@ -108,7 +110,7 @@
 
         <mj-section padding-top="60px">
             <mj-column>
-                <mj-text color="#ff5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
+                <mj-text color="#FF5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
                     Scaling Without Complexity
                 </mj-text>
                 <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="normal" line-height="31px">
@@ -120,7 +122,7 @@
 
         <mj-section padding-top="60px">
             <mj-column>
-                <mj-text color="#ff5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
+                <mj-text color="#FF5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
                     AI in the Supply Chain
                 </mj-text>
                 <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="normal" line-height="31px">
@@ -132,7 +134,7 @@
 
         <mj-section padding-top="60px">
             <mj-column>
-                <mj-text color="#ff5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
+                <mj-text color="#FF5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
                     Rethinking KPIs and Industry Benchmarks
                 </mj-text>
                 <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="normal" line-height="31px">

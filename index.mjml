@@ -84,7 +84,7 @@
 
         <mj-section>
             <mj-column>
-                <mj-text color="#ff5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
+                <mj-text color="#ff5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="medium" line-height="45px">
                     Visibility to Act
                 </mj-text>
                 <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="normal" line-height="31px">
@@ -162,7 +162,7 @@
                 <mj-spacer height="10px" />
                 <mj-text align="center" color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
                     <a style="text-decoration: none; color: #3F3B42;" href="https://fusion5-oct-confirmation-email.vercel.app/images/event.ics" target="_blank">
-                        <span style="white-space: nowrap;">Thursday, <br />20 October 2026</span>
+                        <span style="white-space: nowrap;">Thursday, <br />15 October 2026</span>
                     </a>
                 </mj-text>
             </mj-column>

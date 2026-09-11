@@ -158,40 +158,46 @@
 
         <mj-section padding="0 23px 20px 23px">
             <mj-column width="48%" background-color="#F0EDF2" border-radius="14px" padding="20px 10px 20px 10px">
-                <mj-image src="images/ico-25x28.png" alt="Calendar icon" width="25px" />
+                <mj-image src="images/ico-25x28.png" alt="Calendar icon" width="25px" href="https://fusion5-oct-confirmation-email.vercel.app/images/event.ics" target="_blank" />
                 <mj-spacer height="10px" />
-                <mj-text align="center" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
-                    <span style="white-space: nowrap;">Thursday, <br />20 October 2026</span>
+                <mj-text align="center" color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
+                    <a style="text-decoration: none; color: #3F3B42;" href="https://fusion5-oct-confirmation-email.vercel.app/images/event.ics" target="_blank">
+                        <span style="white-space: nowrap;">Thursday, <br />20 October 2026</span>
+                    </a>
                 </mj-text>
             </mj-column>
             <mj-column width="4%">
                 <mj-spacer height="20px" />
             </mj-column>
             <mj-column width="48%" background-color="#F0EDF2" border-radius="14px" padding="20px 10px 20px 10px">
-                <mj-image src="images/ico-house-28x27.png" alt="Venue icon" width="28px" />
+                <mj-image src="images/ico-house-28x27.png" alt="Venue icon" width="28px" href="https://societyrestaurant.com/" />
                 <mj-spacer height="10px" />
-                <mj-text align="center" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
-                    Society <br />Restaurant
+                <mj-text align="center" color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
+                    <a style="text-decoration: none; color: #3F3B42;" href="https://societyrestaurant.com/">Society <br />Restaurant</a>
                 </mj-text>
             </mj-column>
         </mj-section>
 
         <mj-section padding="0 23px 0 23px">
             <mj-column width="48%" background-color="#F0EDF2" border-radius="14px" padding="20px 10px 16px 10px">
-                <mj-image src="images/ico-location-23x31.png" alt="Calendar icon" width="23px" />
+                <mj-image src="images/ico-location-23x31.png" alt="Calendar icon" width="23px" href="https://maps.app.goo.gl/iNCFrh1YJHxaP9qPA?g_st=ic" target="_blank" />
                 <mj-spacer height="10px" />
-                <mj-text align="center" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
+                <mj-text align="center" color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
+                    <a style="text-decoration: none; color: #3F3B42;" href="https://maps.app.goo.gl/iNCFrh1YJHxaP9qPA?g_st=ic" target="blank">
                     <span style="white-space: nowrap;">80 Collins Street,</span> <br />Melbourne
+                    </a>
                 </mj-text>
             </mj-column>
             <mj-column width="4%">
                 <mj-spacer height="20px" />
             </mj-column>
             <mj-column width="48%" background-color="#F0EDF2" border-radius="14px" padding="20px 10px 20px 10px">
-                <mj-image src="images/ico-time-28x28.png" alt="Venue icon" width="28px" />
+                <mj-image src="images/ico-time-28x28.png" alt="Venue icon" width="28px" href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20261015T010000Z%2F20261015T030000Z&details=Thank%20you%20for%20registering.%20We%20look%20forward%20to%20welcoming%20you%20to%20the%20Fusion5%20%2B%20NetSuite%20Executive%20Roundtable.%20This%20exclusive%20lunch%20brings%20together%20senior%20leaders%20across%20Manufacturing%2C%20Wholesale%20%26%20Distribution%20to%20discuss%20how%20AI%20is%20reshaping%20ERP%2C%20operations%20and%20business%20performance.%20You%27ll%20hear%20practical%20insights%20from%20Fusion5%20specialists%20and%20connect%20with%20peers%20facing%20similar%20challenges.%0A%0AEvent%20details%0ADate%3A%20Thursday%2C%2015%20October%202026%0ATime%3A%2012%3A00%20pm%20%E2%80%93%202%3A00%20pm%20%28please%20arrive%20from%2011%3A45%20am%29%0AVenue%3A%20Society%20Restaurant%2C%20Melbourne.%20%0AAddress%3A%2080%20Collin%20Street%2C%20Melbourne%2C%20VIC%203000&location=Society%20Restaurant.%2080%20Collins%20St%2C%20Melbourne%20VIC%203000.&text=Fusion5%20%2B%20NetSuite%20Executive%20Lunch%20-%20Visibility%20to%20Act.%20Confidence%20to%20Move." target="_blank" />
                 <mj-spacer height="10px" />
-                <mj-text align="center" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
-                    12.00 - <br />2.00pm
+                <mj-text align="center" color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
+                    <a style="text-decoration: none; color: #3F3B42;" href="" target="_blank">
+                        12.00 - <br />2.00pm
+                    </a>
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -204,13 +210,13 @@
 
         <mj-section padding="0 23px 0 23px">
             <mj-column width="48%">
-                <mj-image src="images/img-add-calendar-267x52.png" alt="Add to Calendar" width="267px" />
+                <mj-image src="images/img-add-calendar-267x52.png" alt="Add to Calendar" width="267px" href="https://fusion5-oct-confirmation-email.vercel.app/images/event.ics" target="_blank" />
             </mj-column>
             <mj-column width="4%">
                 <mj-spacer height="20px" />
             </mj-column>
             <mj-column width="48%">
-                <mj-image src="images/img-add-google-267x52.png" alt="Add to Google Calendar" width="267px" />
+                <mj-image src="images/img-add-google-267x52.png" alt="Add to Google Calendar" width="267px" href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20261015T010000Z%2F20261015T030000Z&details=Thank%20you%20for%20registering.%20We%20look%20forward%20to%20welcoming%20you%20to%20the%20Fusion5%20%2B%20NetSuite%20Executive%20Roundtable.%20This%20exclusive%20lunch%20brings%20together%20senior%20leaders%20across%20Manufacturing%2C%20Wholesale%20%26%20Distribution%20to%20discuss%20how%20AI%20is%20reshaping%20ERP%2C%20operations%20and%20business%20performance.%20You%27ll%20hear%20practical%20insights%20from%20Fusion5%20specialists%20and%20connect%20with%20peers%20facing%20similar%20challenges.%0A%0AEvent%20details%0ADate%3A%20Thursday%2C%2015%20October%202026%0ATime%3A%2012%3A00%20pm%20%E2%80%93%202%3A00%20pm%20%28please%20arrive%20from%2011%3A45%20am%29%0AVenue%3A%20Society%20Restaurant%2C%20Melbourne.%20%0AAddress%3A%2080%20Collin%20Street%2C%20Melbourne%2C%20VIC%203000&location=Society%20Restaurant.%2080%20Collins%20St%2C%20Melbourne%20VIC%203000.&text=Fusion5%20%2B%20NetSuite%20Executive%20Lunch%20-%20Visibility%20to%20Act.%20Confidence%20to%20Move." target="_blank" />
             </mj-column>
         </mj-section>
 

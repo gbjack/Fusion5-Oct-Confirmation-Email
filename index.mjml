@@ -180,10 +180,10 @@
 
         <mj-section padding="0 23px 0 23px">
             <mj-column width="48%" background-color="#F0EDF2" border-radius="14px" padding="20px 10px 16px 10px">
-                <mj-image src="images/ico-location-23x31.png" alt="Calendar icon" width="23px" href="https://maps.app.goo.gl/iNCFrh1YJHxaP9qPA?g_st=ic" target="_blank" />
+                <mj-image src="images/ico-location-23x31.png" alt="Calendar icon" width="23px" href="https://www.google.com/maps?q=Society,+80+Collins+St,+Melbourne+VIC+3000&ftid=0x6ad643a48f60a7f3:0x81c05dce6b1cee4&entry=gps&shh=CAE&lucs=,100834230,94297699,94231188,94280568,47071704,94218641,94282134,94286869,100820247,100822504&g_ep=CAISEjI2LjMzLjEuOTYxODkxNDMyMBgAIIgnKl0sMTAwODM0MjMwLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDQ3MDcxNzA0LDk0MjE4NjQxLDk0MjgyMTM0LDk0Mjg2ODY5LDEwMDgyMDI0NywxMDA4MjI1MDRCAkFV&skid=7c277aa1-82a9-45d6-86d1-1290edb7c205&g_st=ic" target="_blank" />
                 <mj-spacer height="10px" />
                 <mj-text align="center" color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
-                    <a style="text-decoration: none; color: #3F3B42;" href="https://maps.app.goo.gl/iNCFrh1YJHxaP9qPA?g_st=ic" target="blank">
+                    <a style="text-decoration: none; color: #3F3B42;" href="https://www.google.com/maps?q=Society,+80+Collins+St,+Melbourne+VIC+3000&ftid=0x6ad643a48f60a7f3:0x81c05dce6b1cee4&entry=gps&shh=CAE&lucs=,100834230,94297699,94231188,94280568,47071704,94218641,94282134,94286869,100820247,100822504&g_ep=CAISEjI2LjMzLjEuOTYxODkxNDMyMBgAIIgnKl0sMTAwODM0MjMwLDk0Mjk3Njk5LDk0MjMxMTg4LDk0MjgwNTY4LDQ3MDcxNzA0LDk0MjE4NjQxLDk0MjgyMTM0LDk0Mjg2ODY5LDEwMDgyMDI0NywxMDA4MjI1MDRCAkFV&skid=7c277aa1-82a9-45d6-86d1-1290edb7c205&g_st=ic" target="blank">
                     <span style="white-space: nowrap;">80 Collins Street,</span> <br />Melbourne
                     </a>
                 </mj-text>

@@ -8,7 +8,8 @@
       <mj-all padding="0px" />
     </mj-attributes>
 
-    <mj-font name="Calibre" href="https://fusion5-oct-confirmation-email.vercel.app/images" />
+    <mj-font name="Calibre" href="https://fusion5-oct-confirmation-email.vercel.app/fonts/Calibre-Bold.woff2" />
+    <mj-font name="Calibre" href="https://fusion5-oct-confirmation-email.vercel.app/fonts/Calibre-Bold.woff" />
 
     <mj-raw>
       <!--[if mso]>

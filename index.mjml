@@ -1,0 +1,250 @@
+<mjml lang="en" dir="ltr">
+  <mj-head>
+
+    <mj-title>You're confirmed and we can't wait to see you.</mj-title>
+    <mj-preview>Your place is reserved for the Fusion5 executive roundtable in Melbourne.</mj-preview>
+
+    <mj-attributes>
+      <mj-all padding="0px" />
+    </mj-attributes>
+
+    <mj-raw>
+      <!--[if mso]>
+        <style type="text/css">
+          body, table, td, p, a, span, font, div, h1, h2, h3, h4, h5, h6 {
+            font-family: Arial, sans-serif !important;
+          }
+        </style>
+      <![endif]-->
+    </mj-raw>
+
+    <mj-style>
+      * { -webkit-font-smoothing: antialiased !important;
+      -moz-osx-font-smoothing: grayscale !important; }
+      a[x-apple-data-detectors], u + .body-wrapper a, a.MsoHyperlink,
+      a.MsoHyperlinkFollowed { color: inherit !important; text-decoration: none
+      !important; }
+
+      @media only screen and (max-width:480px) {
+        .mobile-center table {
+          margin: 0 auto !important;
+          }
+          .mobile-center div {
+            text-align: center !important;
+          }
+        }
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body>
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-image src="images/hero-600x344.jpg" alt="Hero image" width="600px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="60px 23px 0 23px">
+
+        <mj-section>
+            <mj-column>
+                <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="normal" line-height="31px">
+                    Hi [firstname,fallback=],
+                    <br /><br />
+                    <b>You're confirmed.</b>
+                    <br /><br />
+                    We're looking forward to welcoming you to an invitation&#8209;only executive roundtable hosted by Fusion5.
+                    <br /><br />
+                    On Thursday, 15 October, a select group of manufacturing and wholesale distribution leaders will come together at Society in Melbourne for an open conversation about navigating an increasingly complex operating environment.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="50px 0 50px 0">
+            <mj-column>
+                <mj-divider border-width="1px" border-style="solid" border-color="#3F3B42" />
+            </mj-column>
+        </mj-section>
+
+         <mj-section>
+            <mj-column>
+                <mj-text color="#FF5C39" font-family="Calibre, Arial, sans-serif" font-size="40px" font-weight="bold" line-height="40px">
+                    On The Agenda
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="30px 0 30px 0">
+            <mj-column>
+                <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="normal" line-height="31px">
+                    During lunch, we'll explore:
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column>
+                <mj-text color="#ff5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
+                    Visibility to Act
+                </mj-text>
+                <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="normal" line-height="31px">
+                    Turning operational insight into faster, more confident decisions.
+                </mj-text>
+                <mj-image src="images/img-agenda-1-554x297.png" alt="Agenda 1" width="554px" padding-top="20px" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="60px">
+            <mj-column>
+                <mj-text color="#ff5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
+                    Confidence to Move
+                </mj-text>
+                <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="normal" line-height="31px">
+                    Leading through uncertainty while protecting growth and profitability.
+                </mj-text>
+                <mj-image src="images/img-agenda-2-554x297.png" alt="Agenda 2" width="554px" padding-top="20px" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="60px">
+            <mj-column>
+                <mj-text color="#ff5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
+                    Scaling Without Complexity
+                </mj-text>
+                <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="normal" line-height="31px">
+                    Building an organisation that grows without losing control.
+                </mj-text>
+                <mj-image src="images/img-agenda-3-554x297.png" alt="Agenda 3" width="554px" padding-top="20px" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="60px">
+            <mj-column>
+                <mj-text color="#ff5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
+                    AI in the Supply Chain
+                </mj-text>
+                <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="normal" line-height="31px">
+                    Where AI is already being incorporated into business processes and what practical adoption looks like today.
+                </mj-text>
+                <mj-image src="images/img-agenda-4-554x297.png" alt="Agenda 4" width="554px" padding-top="20px" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="60px">
+            <mj-column>
+                <mj-text color="#ff5C39" font-family="Calibre, Arial, sans-serif" font-size="30px" font-weight="bold" line-height="45px">
+                    Rethinking KPIs and Industry Benchmarks
+                </mj-text>
+                <mj-text color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="normal" line-height="31px">
+                    How AI and changing operating models are reshaping the measures businesses use to track performance and success.
+                </mj-text>
+                <mj-image src="images/img-agenda-5-554x297.png" alt="Agenda 4" width="554px" padding-top="20px" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="50px 0 60px 0">
+            <mj-column>
+                <mj-divider border-width="1px" border-style="solid" border-color="#3F3B42" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column padding="0 23px 30px 23px">
+                <mj-text font-family="Calibre, Arial, sans-serif" font-size="40px" font-weight="bold" line-height="49px" color="#FF5C39">
+                    Event Details
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="0 23px 20px 23px">
+            <mj-column width="48%" background-color="#F0EDF2" border-radius="14px" padding="20px 10px 20px 10px">
+                <mj-image src="images/ico-25x28.png" alt="Calendar icon" width="25px" />
+                <mj-spacer height="10px" />
+                <mj-text align="center" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
+                    <span style="white-space: nowrap;">Thursday, <br />20 October 2026</span>
+                </mj-text>
+            </mj-column>
+            <mj-column width="4%">
+                <mj-spacer height="20px" />
+            </mj-column>
+            <mj-column width="48%" background-color="#F0EDF2" border-radius="14px" padding="20px 10px 20px 10px">
+                <mj-image src="images/ico-house-28x27.png" alt="Venue icon" width="28px" />
+                <mj-spacer height="10px" />
+                <mj-text align="center" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
+                    Society <br />Restaurant
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="0 23px 0 23px">
+            <mj-column width="48%" background-color="#F0EDF2" border-radius="14px" padding="20px 10px 16px 10px">
+                <mj-image src="images/ico-location-23x31.png" alt="Calendar icon" width="23px" />
+                <mj-spacer height="10px" />
+                <mj-text align="center" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
+                    <span style="white-space: nowrap;">80 Collins Street,</span> <br />Melbourne
+                </mj-text>
+            </mj-column>
+            <mj-column width="4%">
+                <mj-spacer height="20px" />
+            </mj-column>
+            <mj-column width="48%" background-color="#F0EDF2" border-radius="14px" padding="20px 10px 20px 10px">
+                <mj-image src="images/ico-time-28x28.png" alt="Venue icon" width="28px" />
+                <mj-spacer height="10px" />
+                <mj-text align="center" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
+                    12.00 - <br />2.00pm
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="60px 0 60px 0">
+            <mj-column>
+                <mj-divider border-width="1px" border-style="solid" border-color="#3F3B42" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="0 23px 0 23px">
+            <mj-column width="48%">
+                <mj-image src="images/img-add-calendar-267x52.png" alt="Add to Calendar" width="267px" />
+            </mj-column>
+            <mj-column width="4%">
+                <mj-spacer height="20px" />
+            </mj-column>
+            <mj-column width="48%">
+                <mj-image src="images/img-add-google-267x52.png" alt="Add to Google Calendar" width="267px" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="60px 23px 60px 23px">
+            <mj-column>
+                <mj-text font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="normal" line-height="29px" color="#3F3B42" padding-bottom="30px">
+                    We've intentionally kept the group small to encourage genuine discussion and meaningful peer-to-peer conversation.
+                    <br /><br />
+                    We're delighted to have you joining us.
+                </mj-text>
+                <mj-text font-family="Calibre, Arial, sans-serif" font-size="21px" font-weight="bold" line-height="29px" color="#3F3B42">
+                    The Fusion5 Team
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    </mj-wrapper>
+
+    <mj-section padding="30px 23px 30px 23px" background-color="#000000">
+        <mj-column width="48%" vertical-align="bottom" css-class="mobile-center">
+            <mj-image src="images/img-logo-173x30.png" alt="Fusion5 + NetSuite logo" width="173px" align="left" />
+        </mj-column>
+        <mj-column width="4%">
+            <mj-spacer height="20px" />
+        </mj-column>
+        <mj-column width="48%" vertical-align="bottom" css-class="mobile-center">
+              <mj-text font-family="Calibre, Arial, sans-serif" font-size="12px" font-weight="normal" line-height="12px" color="#FFFFFF" align="right">
+                <mj-raw>
+                    <a href="<unsubscribe>" style="color:#FFFFFF; text-decoration:underline;">Unsubscribe</a>
+                    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;© 2026 Fusion5 Limited
+                </mj-raw>
+              </mj-text>
+        </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

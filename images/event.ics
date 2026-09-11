@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AnandChowdhary//calendar-link//EN
+BEGIN:VEVENT
+DTSTART:20261015T010000Z
+DTEND:20261015T030000Z
+DTSTAMP:20260911T072416Z
+SUMMARY:Fusion5 + NetSuite Executive Lunch - Visibility to Act. Confidence to Move.
+DESCRIPTION:Thank you for registering. We look forward to welcoming you to the Fusion5 + NetSuite Executive Roundtable. This exclusive lunch brings together senior leaders across Manufacturing, Wholesale & Distribution to discuss how AI is reshaping ERP, operations and business performance. You'll hear practical insights from Fusion5 specialists and connect with peers facing similar challenges.\n\nEvent details\nDate: Thursday, 15 October 2026\nTime: 12:00 pm – 2:00 pm (please arrive from 11:45 am)\nVenue: Society Restaurant, Melbourne. \nAddress: 80 Collin Street, Melbourne, VIC 3000
+LOCATION:Society Restaurant. 80 Collins St, Melbourne VIC 3000.
+UID:44529
+END:VEVENT
+END:VCALENDAR

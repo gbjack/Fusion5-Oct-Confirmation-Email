@@ -173,10 +173,10 @@
                 <mj-spacer height="20px" />
             </mj-column>
             <mj-column width="48%" background-color="#F0EDF2" border-radius="14px" padding="20px 10px 20px 10px">
-                <mj-image src="images/ico-house-28x27.png" alt="Venue icon" width="28px" href="https://societyrestaurant.com/" />
+                <mj-image src="images/ico-house-28x27.png" alt="Venue icon" width="28px" href="https://societyrestaurant.com/" target="_blank" />
                 <mj-spacer height="10px" />
                 <mj-text align="center" color="#3F3B42" font-family="Calibre, Arial, sans-serif" font-size="22px" font-weight="medium" line-height="24px">
-                    <a style="text-decoration: none; color: #3F3B42;" href="https://societyrestaurant.com/">Society <br />Restaurant</a>
+                    <a style="text-decoration: none; color: #3F3B42;" href="https://societyrestaurant.com/" target="_blank">Society <br />Restaurant</a>
                 </mj-text>
             </mj-column>
         </mj-section>
